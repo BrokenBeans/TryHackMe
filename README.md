@@ -18,4 +18,4 @@ now building upon my current skillset and new into the cyber security community.
 - TryHackMe Pre-Security / Junior Pentester path
 
 ## Progress
-Just getting started — check back as this grows.
+Just getting started, check back as this grows.
