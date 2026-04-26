@@ -5,3 +5,14 @@ Switch — connects devices within a network (LAN)
 Router — connects different networks together (your LAN to the internet)
 Stateful firewall — tracks the full connection, knows context
 Stateless firewall — just checks each packet against rules, no memory of previous packets
+
+26/04 - sensitive data can be hidden in source code of websites front end. Easily found via inspect / dev tools. When
+assessing web application security fully review the page source code for left over credentials or comments. 
+HTML injection - Example, input into a field like <a href = http://hacker/com"> code could treat it like code and run it.
+Never trust user input and sanitise it.
+The process from User → Browser Cache → Recursive DNS → Root DNS → 
+Authoritative DNS → Web Server → Load Balancer → Web App
+GET — retrieve data (loading a page)
+POST — send data (submitting a form)
+PUT — update existing data
+DELETE — remove data
