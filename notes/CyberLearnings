@@ -16,3 +16,15 @@ GET — retrieve data (loading a page)
 POST — send data (submitting a form)
 PUT — update existing data
 DELETE — remove data
+
+30/04 - Completed the operating systems, windows basics and linux CLI basics. Very comfortable navigating around windows as I naturally use this for extended periods
+of time daily.
+Linux also felt natural, even though I havent used linux much at this point, I have experience in IDEs and text editors so it is a similar feeling.
+Navigating in Linux locked in pretty easily thus far, it does feel very quick compared to finding gui files.
+The kernel sits between hardware and software, managing resources and acting as the gatekeeper for what applications can and can't do.
+This has security implications — kernel level access is what makes certain attacks particularly dangerous
+Mild dyslexia posed some challenges with spelling commands accurately in the terminal — mistyping ubuntu several times for example. 
+Tab completion is becoming an essential habit to compensate for this and copy pasting commands from the room where possible helps significantly. 
+Despite this, navigation locked in quickly and the practical hands on format suits my learning style well.
+Security connection — understanding the kernel helps explain why privilege escalation attacks are so dangerous. 
+Kernel level access means an attacker can bypass almost all security controls
