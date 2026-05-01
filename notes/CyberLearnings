@@ -28,3 +28,8 @@ Tab completion is becoming an essential habit to compensate for this and copy pa
 Despite this, navigation locked in quickly and the practical hands on format suits my learning style well.
 Security connection — understanding the kernel helps explain why privilege escalation attacks are so dangerous. 
 Kernel level access means an attacker can bypass almost all security controls
+
+01/05 - Completed the window cmd basics room, feeling more comfortable already in the terminal. I can already notice how much quicker it is to find things and will likely be using the terminal
+more in my day to day to keep the habit alive.
+The process of finding out whos account was logged in and which privileges were set was interesting and how you can access all areas of a device with the access of the root directory.
+Looking forward to getting hands on with more terminal useage and rooms as time goes on but next up it data representation.
